@@ -1,2 +1,4 @@
 sample data
  changes for rebase
+ changes for squash1
+ changes for squash2
